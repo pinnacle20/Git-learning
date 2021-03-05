@@ -1,3 +1,1 @@
-# Git-
-
-Git game
+Learning git and git hub
